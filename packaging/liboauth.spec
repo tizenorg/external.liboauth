@@ -1,7 +1,6 @@
-#sbs-git:slp/pkgs/l/liboauth liboauth 0.9.4 0717473c8b84b0123d60d495cb87ae22c36ca5de
 Name:       liboauth
 Summary:    OAuth - server to server secure API authentication
-Version: 0.9.4
+Version: 1.0.3
 Release:    1
 Group:      TO_BE/FILLED_IN
 License:    MIT
